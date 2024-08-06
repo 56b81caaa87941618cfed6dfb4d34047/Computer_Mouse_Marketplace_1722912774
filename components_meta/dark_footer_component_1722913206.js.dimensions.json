@@ -1,10 +1,10 @@
 {
     "id": "dark_footer_component_1722913206",
-    "name": "dark_footer_component",
+    "name": "dark-footer-component",
     "type": "containerComponent",
     "metadata": {},
-    "w": 7,
-    "h": 7,
+    "w": 12,
+    "h": 5,
     "x": 0,
     "y": 7,
     "i": "1",
